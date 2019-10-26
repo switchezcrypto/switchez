@@ -1,12 +1,16 @@
-SWZ
+SWITCHEZ
 
-MAX SUPPLY: 400 Milions
+Ticker: SWZ
+
+MAX SUPPLY: 400900000 Milions 
 POS: 3%
 FULL POS
 MIN STAKE AGE 2 HOURS
 MAX STAKE AGE UNLIMITED
 RPC PORT: 46646
 PORT: 46647
+
+Note: before compile: cd src/make obj  cd leveldb/make clean
 
 
 
